@@ -1,7 +1,7 @@
 # Proyecto Plantitas UXD (WIP)
 
 User experience study for APP_TITLE
-interior plants care and search application
+interior plants health care and search application
 
 ## Index
 
