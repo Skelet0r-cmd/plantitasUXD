@@ -37,6 +37,12 @@ From this aproach, a Value Proposition Canvas is used to determined what the peo
 
 The application is designed for users interested in caring for the health of their plants. It is suitable for both beginners and experienced hobbyists. It provides step-by-step tips for plant care, including basic and advanced information. It allows you to keep a detailed record of your plants and track their progress. It also offers advanced features, such as pruning techniques and pest control. In short, it is a versatile application that helps users to effectively care for their plants and improve their gardening skills.
 
+![Person_UX_1](https://github.com/Skelet0r-cmd/plantitasUXD/assets/55802921/cc39826f-ac99-4b94-afc3-a31422303c7b)
+
+![Person_UX_2](https://github.com/Skelet0r-cmd/plantitasUXD/blob/main/files/Person_UX_2.png)
+
+![Person_UX_3](https://github.com/Skelet0r-cmd/plantitasUXD/blob/main/files/Person_UX_3.png)
+
 ---
 
 ## 4. Benchmark
