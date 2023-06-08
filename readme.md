@@ -61,6 +61,8 @@ In short, benchmarking analysis allows us to recognize the strengths and weaknes
 
 The Customer Journey Map is a valuable tool to understand the user experience in their interaction with our product or service. Through the detailed mapping of each stage, from the first contact to the subsequent interaction, we can identify emotions, needs and critical moments. This analysis highlights challenges and opportunities to improve the experience and design exceptional solutions. By immersing ourselves in the user's world, we create memorable experiences and strengthen the relationship with them.
 
+![Customer_Journey_Map](https://github.com/Skelet0r-cmd/plantitasUXD/blob/main/files/Customer_Journey_Map.png)
+
 ---
 
 ## 6. Navigation
