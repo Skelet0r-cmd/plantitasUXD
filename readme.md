@@ -7,9 +7,9 @@ interior plants health care and search mobile application
 
 - [1. Introduction](#1-introduction)
 - [2. Strategy](#2-strategy)
-- [3. Solutions Scope](#3-Solutions_Scope)
+- [3. Solutions Scope](#3-solutions-scope)
 - [4. Benchmark](#4-Benchmark)
-- [5. Customer Journey Map](#5-Customer_Journey_Map)
+- [5. Customer Journey Map](#5-customer-journey-map)
 - [6. Navigation](#6-Navigation)
 - [7. Mockups](#7-Mockups)
 
