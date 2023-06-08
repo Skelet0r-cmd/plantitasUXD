@@ -55,6 +55,8 @@ Benchmarking analysis provides us with an objective perspective and helps us und
 
 In short, benchmarking analysis allows us to recognize the strengths and weaknesses of competing applications, optimally integrating the positive aspects and avoiding the identified mistakes. This helps us to create an application that aligns with market expectations and delivers an exceptional user experience.
 
+![Benchmarking](https://github.com/Skelet0r-cmd/plantitasUXD/blob/main/files/Benchmarking.png)
+
 ---
 
 ## 5. Customer Journey Map
@@ -72,5 +74,33 @@ The Customer Journey Map is a valuable tool to understand the user experience in
 ## 7. Mockups
 
 This section shows the mockups developed as a solution, for a better visualization visit the project in figma together with its functionalities here.
+
+Home.
+
+![Home](https://github.com/Skelet0r-cmd/plantitasUXD/blob/main/files/mockups/Home.png)
+
+Add Plant.
+
+![Add Plant](https://github.com/Skelet0r-cmd/plantitasUXD/blob/main/files/mockups/Add%20Plant.png)
+
+Recent.
+
+![Recent](https://github.com/Skelet0r-cmd/plantitasUXD/blob/main/files/mockups/Recent.png)
+
+Information.
+
+![Information](https://github.com/Skelet0r-cmd/plantitasUXD/blob/main/files/mockups/Information.png)
+
+Photo Scan.
+
+![Photo Scan](https://github.com/Skelet0r-cmd/plantitasUXD/blob/main/files/mockups/Photo%20Scan.png)
+
+Identify Plant.
+
+![Identify Plant](https://github.com/Skelet0r-cmd/plantitasUXD/blob/main/files/mockups/Identify%20Plant.png)
+
+Profile.
+
+![Profile](https://github.com/Skelet0r-cmd/plantitasUXD/blob/main/files/mockups/Profile.png)
 
 ---
