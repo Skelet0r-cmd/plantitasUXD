@@ -70,6 +70,8 @@ The Customer Journey Map is a valuable tool to understand the user experience in
 
 ## 7. Navigation
 
+![Navigation](https://github.com/Skelet0r-cmd/plantitasUXD/blob/main/files/Navigation.png)
+
 ---
 
 ## 8. Mockups
