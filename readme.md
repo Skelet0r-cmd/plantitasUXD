@@ -7,8 +7,8 @@ interior plants health care and search mobile application
 
 - [1. Introduction](#1-introduction)
 - [2. Strategy](#2-strategy)
-- [3. Scope](#3-scope)
-- [4. Structure](#4-structure)
+- [3. Solutions Scope](#3-scope)
+- [4. Benchmark](#4-structure)
 - [5. Skeleton](#5-skeleton)
 - [6. Surface](#6-surface)
 - [7. Authors](#7-authors)
@@ -33,20 +33,36 @@ From this aproach, a Value Proposition Canvas is used to determined what the peo
 
 ---
 
-## 3. Scope
+## 3. Solutions Scope
+
+The application is designed for users interested in caring for the health of their plants. It is suitable for both beginners and experienced hobbyists. It provides step-by-step tips for plant care, including basic and advanced information. It allows you to keep a detailed record of your plants and track their progress. It also offers advanced features, such as pruning techniques and pest control. In short, it is a versatile application that helps users to effectively care for their plants and improve their gardening skills.
 
 ---
 
-## 4. Structure
+## 4. Benchmark
+
+In order to develop an application that meets the expectations and needs of users, it is essential to carry out an exhaustive analysis of existing applications on the market, especially those that are direct competitors. This process, known as benchmarking, allows us to identify both the shortcomings and the positive aspects of these applications, in order to integrate them optimally into our own product.
+
+By studying competing applications, we can learn from their mistakes and avoid repeating them in our application. In addition, we can identify successful features and functionalities that we can adopt and implement in our solution, thus providing a superior experience to our users.
+
+Benchmarking analysis provides us with an objective perspective and helps us understand market expectations and user demands. By leveraging this information, we can design and develop an application that stands out from the competition and effectively meets the needs and aspirations of our users.
+
+In short, benchmarking analysis allows us to recognize the strengths and weaknesses of competing applications, optimally integrating the positive aspects and avoiding the identified mistakes. This helps us to create an application that aligns with market expectations and delivers an exceptional user experience.
 
 ---
 
-## 5. Skeleton
+## 5. Customer Journey Map
+
+The Customer Journey Map is a valuable tool to understand the user experience in their interaction with our product or service. Through the detailed mapping of each stage, from the first contact to the subsequent interaction, we can identify emotions, needs and critical moments. This analysis highlights challenges and opportunities to improve the experience and design exceptional solutions. By immersing ourselves in the user's world, we create memorable experiences and strengthen the relationship with them.
 
 ---
 
-## 6. Surface
+## 6. Navigation
 
 ---
 
-## 7. Authors
+## 7. Mockups
+
+This section shows the mockups developed as a solution, for a better visualization visit the project in figma together with its functionalities here.
+
+---
