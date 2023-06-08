@@ -6,12 +6,13 @@ interior plants health care and search mobile application
 ## Index
 
 - [1. Introduction](#1-introduction)
-- [2. Strategy](#2-strategy)
-- [3. Solutions Scope](#3-solutions-scope)
-- [4. Benchmark](#4-Benchmark)
-- [5. Customer Journey Map](#5-customer-journey-map)
-- [6. Navigation](#6-Navigation)
-- [7. Mockups](#7-Mockups)
+- [2. Team](#2-Team)
+- [3. Strategy](#3-strategy)
+- [4. Solutions Scope](#4-solutions-scope)
+- [5. Benchmark](#5-Benchmark)
+- [6. Customer Journey Map](#6-customer-journey-map)
+- [7. Navigation](#7-Navigation)
+- [8. Mockups](#8-Mockups)
 
 ---
 
@@ -23,7 +24,7 @@ With this project we will be focusing on developing an application from the star
 
 ---
 
-## 2. Strategy
+## 3. Strategy
 
 The first step under the Elements of User Experience is the Strategy plane, which focuses on incorporating not only what the people running the application want to get out of it but what the users want to get out of the application.
 
@@ -33,7 +34,7 @@ From this aproach, a Value Proposition Canvas is used to determined what the peo
 
 ---
 
-## 3. Solutions Scope
+## 4. Solutions Scope
 
 The application is designed for users interested in caring for the health of their plants. It is suitable for both beginners and experienced hobbyists. It provides step-by-step tips for plant care, including basic and advanced information. It allows you to keep a detailed record of your plants and track their progress. It also offers advanced features, such as pruning techniques and pest control. In short, it is a versatile application that helps users to effectively care for their plants and improve their gardening skills.
 
@@ -45,7 +46,7 @@ The application is designed for users interested in caring for the health of the
 
 ---
 
-## 4. Benchmark
+## 5. Benchmark
 
 In order to develop an application that meets the expectations and needs of users, it is essential to carry out an exhaustive analysis of existing applications on the market, especially those that are direct competitors. This process, known as benchmarking, allows us to identify both the shortcomings and the positive aspects of these applications, in order to integrate them optimally into our own product.
 
@@ -59,7 +60,7 @@ In short, benchmarking analysis allows us to recognize the strengths and weaknes
 
 ---
 
-## 5. Customer Journey Map
+## 6. Customer Journey Map
 
 The Customer Journey Map is a valuable tool to understand the user experience in their interaction with our product or service. Through the detailed mapping of each stage, from the first contact to the subsequent interaction, we can identify emotions, needs and critical moments. This analysis highlights challenges and opportunities to improve the experience and design exceptional solutions. By immersing ourselves in the user's world, we create memorable experiences and strengthen the relationship with them.
 
@@ -67,11 +68,11 @@ The Customer Journey Map is a valuable tool to understand the user experience in
 
 ---
 
-## 6. Navigation
+## 7. Navigation
 
 ---
 
-## 7. Mockups
+## 8. Mockups
 
 This section shows the mockups developed as a solution, for a better visualization visit the project in figma together with its functionalities here.
 
