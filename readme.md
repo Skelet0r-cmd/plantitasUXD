@@ -17,7 +17,7 @@ interior plants health care and search mobile application
 - [8. Wireframes](#8-wireframes)
 - [9. Mockups](#9-mockups)
   - [9.1. Initial Aproach](#91-initial-aproach)
-  - [9.2. ](#92-improved-mockups)
+  - [9.2. Improved Mockups](#92-improved-mockups)
 
 ---
 
@@ -101,21 +101,21 @@ The Customer Journey Map is a valuable tool to understand the user experience in
 
 Wireframes are essential in design and development for several reasons. They provide a visual representation that helps plan and visualize the structure and layout of a product or website before investing significant resources. They serve as an efficient communication tool, facilitating discussions and aligning expectations among team members and stakeholders. Also support an iterative design process, allowing for quick experimentation and problem-solving while being cost-effective compared to high-fidelity prototypes. Lastly, wireframes promote user-centered design by prioritizing user needs and goals, resulting in more intuitive and efficient interfaces.
 
-[](./files/wireframes/Home.png)
+![Home](./files/wireframes/Home.png)
 
-[](./files/wireframes/Identificar.png)
+![](./files/wireframes/Identificar.png)
 
-[](./files/wireframes/Editar%20Perfil.png)
+![](./files/wireframes/Editar%20Perfil.png)
 
-[](./files/wireframes/add_plant.png)
+![](./files/wireframes/add_plant.png)
 
-[](./files/wireframes/Buscador.png)
+![](./files/wireframes/Buscador.png)
 
-[](./files/wireframes/Info%20Planta.png)
+![](./files/wireframes/Info%20Planta.png)
 
-[](./files/wireframes/Perfil.png)
+![](./files/wireframes/Perfil.png)
 
-[](./files/wireframes/Recientes.png)
+![](./files/wireframes/Recientes.png)
 
 ---
 
