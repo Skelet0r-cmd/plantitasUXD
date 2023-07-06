@@ -93,7 +93,7 @@ The Customer Journey Map is a valuable tool to understand the user experience in
 
 ### 7.2. Improved Navigation
 
-![NavigationV2](./files/NavigationV2.jpg)
+![NavigationV2](./files/NavigationV2.png)
 
 ---
 
