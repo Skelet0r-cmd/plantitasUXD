@@ -57,9 +57,9 @@ The application is designed for users interested in caring for the health of the
 
 ![Person_UX_1](https://github.com/Skelet0r-cmd/plantitasUXD/assets/55802921/cc39826f-ac99-4b94-afc3-a31422303c7b)
 
-![Person_UX_2](./Person_UX_2.png)
+![Person_UX_2](./files/Person_UX_2.png)
 
-![Person_UX_3](./Person_UX_3.png)
+![Person_UX_3](./files/Person_UX_3.png)
 
 ---
 
