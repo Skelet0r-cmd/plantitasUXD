@@ -12,7 +12,12 @@ interior plants health care and search mobile application
 - [5. Benchmark](#5-Benchmark)
 - [6. Customer Journey Map](#6-customer-journey-map)
 - [7. Navigation](#7-Navigation)
-- [8. Mockups](#8-Mockups)
+  - [7.1. Initial Aporach](#71-first-aproach)
+  - [7.2. Improved Navigation](#72-improved-navigation)
+- [8. Wireframes](#8-wireframes)
+- [9. Mockups](#9-mockups)
+  - [9.1. Initial Aproach](#91-initial-aproach)
+  - [9.2. ](#92-improved-mockups)
 
 ---
 
@@ -42,7 +47,7 @@ The first step under the Elements of User Experience is the Strategy plane, whic
 
 From this aproach, a Value Proposition Canvas is used to determined what the people wants to earn from our solution and how are we gonna respond to those needs.
 
-![Value Proposition Canvas](files/Value%20Proposition.png)
+![Value Proposition Canvas](./files/Value%20Proposition.png)
 
 ---
 
@@ -52,9 +57,9 @@ The application is designed for users interested in caring for the health of the
 
 ![Person_UX_1](https://github.com/Skelet0r-cmd/plantitasUXD/assets/55802921/cc39826f-ac99-4b94-afc3-a31422303c7b)
 
-![Person_UX_2](https://github.com/Skelet0r-cmd/plantitasUXD/blob/main/files/Person_UX_2.png)
+![Person_UX_2](./Person_UX_2.png)
 
-![Person_UX_3](https://github.com/Skelet0r-cmd/plantitasUXD/blob/main/files/Person_UX_3.png)
+![Person_UX_3](./Person_UX_3.png)
 
 ---
 
@@ -68,7 +73,7 @@ Benchmarking analysis provides us with an objective perspective and helps us und
 
 In short, benchmarking analysis allows us to recognize the strengths and weaknesses of competing applications, optimally integrating the positive aspects and avoiding the identified mistakes. This helps us to create an application that aligns with market expectations and delivers an exceptional user experience.
 
-![Benchmarking](https://github.com/Skelet0r-cmd/plantitasUXD/blob/main/files/Benchmarking.png)
+![Benchmarking](./files/Benchmarking.png)
 
 ---
 
@@ -76,46 +81,104 @@ In short, benchmarking analysis allows us to recognize the strengths and weaknes
 
 The Customer Journey Map is a valuable tool to understand the user experience in their interaction with our product or service. Through the detailed mapping of each stage, from the first contact to the subsequent interaction, we can identify emotions, needs and critical moments. This analysis highlights challenges and opportunities to improve the experience and design exceptional solutions. By immersing ourselves in the user's world, we create memorable experiences and strengthen the relationship with them.
 
-![Customer_Journey_Map](https://github.com/Skelet0r-cmd/plantitasUXD/blob/main/files/Customer_Journey_Map.png)
+![Customer_Journey_Map](./files/Customer_Journey_Map.png)
 
 ---
 
 ## 7. Navigation
 
-![Navigation](https://github.com/Skelet0r-cmd/plantitasUXD/blob/main/files/Navigation.png)
+### 7.1. First Aproach
+
+![Navigation](./files/Navigation.png)
+
+### 7.2. Improved Navigation
+
+![NavigationV2](./files/NavigationV2.jpg)
 
 ---
 
-## 8. Mockups
+## 8. Wireframes
 
-This section shows the mockups developed as a solution, for a better visualization visit the project in figma together with its functionalities here.
+Wireframes are essential in design and development for several reasons. They provide a visual representation that helps plan and visualize the structure and layout of a product or website before investing significant resources. They serve as an efficient communication tool, facilitating discussions and aligning expectations among team members and stakeholders. Also support an iterative design process, allowing for quick experimentation and problem-solving while being cost-effective compared to high-fidelity prototypes. Lastly, wireframes promote user-centered design by prioritizing user needs and goals, resulting in more intuitive and efficient interfaces.
+
+[](./files/wireframes/Home.png)
+
+[](./files/wireframes/Identificar.png)
+
+[](./files/wireframes/Editar%20Perfil.png)
+
+[](./files/wireframes/add_plant.png)
+
+[](./files/wireframes/Buscador.png)
+
+[](./files/wireframes/Info%20Planta.png)
+
+[](./files/wireframes/Perfil.png)
+
+[](./files/wireframes/Recientes.png)
+
+---
+
+## 9. Mockups
+
+This section shows the mockups developed as a solution, for a better visualization visit the project in figma together with its functionalities [here](https://www.figma.com/file/qoBtWThrPUKcvd6hiCrm5K/Plantitas?type=design&mode=design&t=8niDRsvgzT9YFEe0-0).
+
+### 9.1. Initial Aproach
+
+Initially, we tried to cover all of our users needs, offering them with all the features needed to satisfy their petitions studied previously. Here are the essentials views that cover these requirements:
 
 Home.
 
-![Home](https://github.com/Skelet0r-cmd/plantitasUXD/blob/main/files/mockups/Home.png)
+![Home](./files/mockups/Home.png)
 
 Add Plant.
 
-![Add Plant](https://github.com/Skelet0r-cmd/plantitasUXD/blob/main/files/mockups/Add%20Plant.png)
+![Add Plant](./files/mockups/Add%20Plant.png)
 
 Recent.
 
-![Recent](https://github.com/Skelet0r-cmd/plantitasUXD/blob/main/files/mockups/Recent.png)
+![Recent](./files/mockups/Recent.png)
 
 Information.
 
-![Information](https://github.com/Skelet0r-cmd/plantitasUXD/blob/main/files/mockups/Information.png)
+![Information](./files/mockups/Information.png)
 
 Photo Scan.
 
-![Photo Scan](https://github.com/Skelet0r-cmd/plantitasUXD/blob/main/files/mockups/Photo%20Scan.png)
+![Photo Scan](./files/mockups/Photo%20Scan.png)
 
 Identify Plant.
 
-![Identify Plant](https://github.com/Skelet0r-cmd/plantitasUXD/blob/main/files/mockups/Identify%20Plant.png)
+![Identify Plant](./files/mockups/Identify%20Plant.png)
 
 Profile.
 
-![Profile](https://github.com/Skelet0r-cmd/plantitasUXD/blob/main/files/mockups/Profile.png)
+![Profile](./files/mockups/Profile.png)
+
+### 9.2. Improved Mockups
+
+After our first aproach, the project was involved in a feedback process. By using Usability Testing like Heuristic metrics shared by our co-workers and improving the first design focused on accessibility, we developed some new features like 'Dark Mode', sensors features and more.
+
+Here are some examples:
+
+Home - Dark Mode
+
+![Home Dark](./files/mockupsV2/dark_mode/%5BOSCURO%5D%20Home.png)
+
+Search - Dark Mode
+
+![Search Dark](./files/mockupsV2/dark_mode/%5BOSCURO%5D%20Buscador.png)
+
+Plant Information - Dark Mode
+
+![Plant Info Dark](./files/mockupsV2/dark_mode/%5BOSCURO%5D%20Info%20Planta.png)
+
+Plant Stats using Sensors
+
+![Sensors](./files/mockupsV2/light_mode/Info%20Planta%20Sensor.png)
+
+Better Floating Action Buttons
+
+![Floating Button Example](./files/mockupsV2/light_mode/Planta%20Identificada.png)
 
 ---
